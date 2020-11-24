@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG21600
   title: འཕྲོད་བསྟེན་སྐོར་གི་སྟབས་བདེའི་ཤེས་བྱ།
-  volume: ''
+  volume:
+    f0c5ebe944224507924b0403e3137a60:
+      image_group_id: I1KG21727
+      title: Volume 1 of 'phrod bsten skor gi stabs bde'i shes bya/
+      volume_number: 1
+      total_pages: 30
   author: ''
+ebook_metadata:
+  title: འཕྲོད་བསྟེན་སྐོར་གི་སྟབས་བདེའི་ཤེས་བྱ།
+  author: ''
+  sku: P007088
+  cover: cover.jpg
+  layers:
+  - pagination
